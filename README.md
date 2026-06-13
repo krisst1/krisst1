@@ -19,3 +19,8 @@ I'm a student majoring in information systems and have a keen interest in progra
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krisst1&show_icons=true&theme=tokyonight&hide_border=true" alt="krisst1's GitHub stats" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krisst1/.github/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krisst1/.github/output/github-contribution-grid-snake.svg">
+</picture>
